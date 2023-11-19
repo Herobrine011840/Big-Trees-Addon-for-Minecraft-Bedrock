@@ -5,6 +5,6 @@ The Official Big Trees Addon by Herobrine011840.
 A few tips on downloading:
 1. When loading a world with the addon, activate custom biomes.
 2. This addon was a fun experiment that I did so bugs may be prevalent.
-3. Use version 1.12.10 or higher.
+3. Use version 1.20.30 or higher.
 
 Go to youtube.com/@Herobrinebedrock for more info on the addons.
